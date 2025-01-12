@@ -1,0 +1,14 @@
+div {
+  height: 100px;
+  width: 100px;
+  background-color: aquamarine;
+}
+
+.none {
+  display: none;
+}
+
+.container-foto img {
+  height: 100px;
+  width: 100px;
+}
